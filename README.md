@@ -40,4 +40,5 @@ Every Saturday, I update this README with the progress I've made on my projects 
 
 ---
 
-**Let's Connect!** If you like what you see, feel free to reach out! 📧
+**Let's Connect!** If you like what you see, feel free to reach out! 📧 
+https://i.gifer.com/24S2.gif
