@@ -16,7 +16,9 @@ Jag älskar att arbeta självständigt och lösa problem som kräver både kreat
 Kontakt:
 
 Kontakta mig via LinkedIn
+
 Let’s break things and fix them together! 😄
+
 
 English:
 
