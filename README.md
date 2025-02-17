@@ -1,43 +1,48 @@
 Hej! 👋
 
-Jag heter Kernel Karl och min karriär började som "den där hjälpsamma personen" i IT-support, där jag hjälpte användare att lösa alla möjliga tekniska problem – det var som att vara en digital superhjälte, fast utan manteln. 😉 Nu har jag bytt ut telefoner och chattar mot Bash-skript och Linux-administration, och jag är fast besluten att utvecklas och bli en fullfjädrad expert på området.
+Jag heter Kernel Karl och började min karriär inom IT-support, där jag snabbt lärde mig att lösa tekniska problem och hjälpa användare. Under min tid i supportrollen utvecklade jag en djup passion för att förbättra system och processer, vilket ledde mig in i Bash-skript och Linux-administration.
 
-Jag har gått från att lösa tekniska problem via telefon och chatt till att bygga skript och verkligen dyka ner i Linux-världen. Vad driver mig? Att utmana mig själv och ständigt lära mig nya saker, såklart! Jag trivs bäst när jag kastar mig in i områden jag inte helt behärskar och ser allting falla på plats – det är då det känns som att jag har vunnit ett litet slag i den digitala världen. 🚀
+Jag drivs av att utmana mig själv och ständigt lära mig nya tekniska färdigheter. Jag trivs när jag tar mig an problem som jag inte fullt ut behärskar och hittar lösningar på dem – och det är där jag växer.
 
-För att ta min tekniska resa till nästa nivå har jag även tagit några certifikat:
+Jag har genomfört ett antal certifikat för att bredda min kompetens, bland annat inom:
 
-Ethical Hacker från Cisco – för att förstå sårbarheter och säkerhetsbedömningar.
-Introduction to Digital Forensics – som gav mig insikter i digitala bevis och grundläggande Linux-kommandon.
-Introduction to Dark Web Operations – där jag lärt mig att identifiera skadlig aktivitet och samla in underrättelser.
-Introduction to OSINT – för att bli bättre på att samla och analysera information från öppna källor.
-Introduction to Network Analysis – där jag lärt mig analysera nätverkstrafik med Wireshark och TCPDump.
-Jag älskar att arbeta självständigt och lösa problem som kräver både kreativitet och teknisk kunskap – lite som att sätta ihop ett pussel, fast med många fler variabler och ibland en hel del svettiga ögonblick. 😅 För mig handlar det om att hela tiden växa, lära mig mer och bli ännu bättre. Just nu är jag målinriktad på att bli en expert inom Linux och systemadministration, och jag ser fram emot alla de utmaningar som väntar!
+Ethical Hacker från Cisco – För att förstå och bedöma sårbarheter.
+Introduction to Digital Forensics – För att få insikter i digitala bevis och Linux-kommandon.
+Introduction to Dark Web Operations – Lärt mig identifiera skadlig aktivitet och samla in underrättelser.
+Introduction to OSINT – Förbättrad förmåga att samla och analysera data från öppna källor.
+Introduction to Network Analysis – Färdigheter i att analysera nätverkstrafik med verktyg som Wireshark och TCPDump.
+Mitt mål är att fortsätta växa inom Linux och systemadministration, och jag ser fram emot att ta mig an nya tekniska utmaningar.
+
+Let’s break things and fix them together!
 
 Kontakt:
 
 Kontakta mig via LinkedIn
 
-Let’s break things and fix them together! 😄
+Let’s break things and fix them together! 
 
 
-English:
+English: 
 
-Hey there! 👋
+Hi! 👋
 
-I’m Kernel Karl, and my career started as "that helpful person" in IT support, where I assisted users with all kinds of tech problems – think of me as a digital superhero, just without the cape. 😉 Today, I’ve traded phones and chats for Bash scripting and Linux administration, and I’m determined to develop into a full-fledged expert in the field.
+My name is Kernel Karl, and I began my career in IT support, where I quickly learned how to solve technical problems and help users. During my time in support, I developed a deep passion for improving systems and processes, which led me to Bash scripting and Linux administration.
 
-I’ve gone from solving tech issues over the phone and chat to building scripts and diving deep into the world of Linux. What drives me? Constantly challenging myself and learning new things, of course! I thrive when I throw myself into areas I don’t fully master and watch everything fall into place – that’s when it feels like I’ve won a small battle in the digital world. 🚀
+I am driven by challenging myself and continuously learning new technical skills. I thrive when I take on problems that I don't fully understand and find solutions to them – that's where I grow.
 
-To level up my technical journey, I’ve also earned some certifications:
+I’ve completed several certifications to broaden my expertise, including:
 
-Ethical Hacker from Cisco – for understanding vulnerabilities and conducting security assessments.
-Introduction to Digital Forensics – which gave me insights into digital evidence and basic Linux commands.
-Introduction to Dark Web Operations – where I learned to identify malicious activity and collect intelligence.
-Introduction to OSINT – to get better at collecting and analyzing information from open sources.
-Introduction to Network Analysis – where I learned to analyze network traffic using Wireshark and TCPDump.
-I enjoy working independently and solving problems that require both creativity and technical knowledge – like putting together a puzzle, but with a lot more variables and sometimes a few sweaty moments. 😅 For me, it's all about continuous growth, learning more, and getting better. Right now, I’m focused on becoming an expert in Linux and system administration, and I’m looking forward to the challenges ahead!
+Ethical Hacker from Cisco – To understand and assess vulnerabilities.
+Introduction to Digital Forensics – To gain insights into digital evidence and Linux commands.
+Introduction to Dark Web Operations – Learning to identify malicious activity and gather intelligence.
+Introduction to OSINT – Enhanced ability to collect and analyze data from open sources.
+Introduction to Network Analysis – Skills in analyzing network traffic using tools like Wireshark and TCPDump.
+My goal is to continue growing within Linux and system administration, and I'm looking forward to tackling new technical challenges.
+
+Let’s break things and fix them together!
+
 
 Contact:
 
 Connect with me on LinkedIn
-Let’s break things and fix them together! 😄
+
