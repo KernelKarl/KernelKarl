@@ -1,20 +1,47 @@
-## Hej! 👋
+# 👋 Hej! Jag är Kernel Karl
 
-Jag heter Kernel Karl och började min karriär inom IT-support, där jag snabbt lärde mig att lösa tekniska problem och hjälpa användare. Under min tid i supportrollen utvecklade jag en djup passion för att förbättra system och processer, vilket ledde mig in i Bash-skript och Linux-administration.
+Jag heter Karl – eller **Kernel Karl**, som jag ibland kallar mig när jag nördar ner mig i terminalen. Min resa började inom IT-support, där jag snabbt lärde mig att lösa problem och göra livet lite lättare för användare. Men det var bakom kulisserna, i systemen och skalen, jag verkligen hittade mitt driv.
 
-Jag drivs av att utmana mig själv och ständigt lära mig nya tekniska färdigheter. Jag trivs när jag tar mig an problem som jag inte fullt ut behärskar och hittar lösningar på dem – och det är där jag växer.
+---
 
-Jag har genomfört ett antal certifikat för att bredda min kompetens, bland annat inom:
+## 🔧 Vad jag kan
 
-- **Ethical Hacker från Cisco** – För att förstå och bedöma sårbarheter.  
-- **Introduction to Digital Forensics** – För att få insikter i digitala bevis och Linux-kommandon.  
-- **Introduction to Dark Web Operations** – Lärt mig identifiera skadlig aktivitet och samla in underrättelser.  
-- **Introduction to OSINT** – Förbättrad förmåga att samla och analysera data från öppna källor.  
-- **Introduction to Network Analysis** – Färdigheter i att analysera nätverkstrafik med verktyg som Wireshark och TCPDump.  
+Under åren har jag utforskat Linux, Bash och nätverksanalys – och plockat på mig både praktisk erfarenhet och certifikat:
 
-Mitt mål är att fortsätta växa inom Linux och systemadministration, och jag ser fram emot att ta mig an nya tekniska utmaningar.
+- 🛡️ **Ethical Hacker (Cisco)** – Hur sårbarheter fungerar, och hur man åtgärdar dem.
+- 🧪 **Digital Forensics** – Linux-kommandon, filutvinning, beviskedjor.
+- 🌐 **Dark Web Operations** – Identifiera skadlig aktivitet och samla underrättelser.
+- 🔎 **OSINT** – Hitta och analysera information från öppna källor.
+- 📡 **Network Analysis** – Felsöka nätverkstrafik med **Wireshark** och **TCPDump**.
 
-**Let’s break things and fix them together!**
+---
 
-📬 **Kontakt:**  
-[Kontakta mig via LinkedIn](#)
+## 🧠 Hur jag lär mig
+
+Jag gillar att kasta mig in i sånt jag inte helt behärskar – just för att förstå det. För mig är det där lärandet sker. Och jag dokumenterar gärna det jag lär mig längs vägen.
+
+---
+
+## 📂 Mina projekt
+
+I mitt [GitHub-repo](https://github.com/dittnamn) hittar du:
+
+- Bash-skript för enklare automation.
+- Övningar i nätverksanalys med **TShark** och **Prometheus**.
+- Små projekt där jag testat nya verktyg eller idéer som verkat spännande.
+
+Fler grejer dyker upp löpande – jag laddar upp sånt jag haft kul med och där jag lärt mig något nytt.
+
+---
+
+## 🎯 Vad jag vill
+
+Mitt mål? Att fortsätta växa inom **Linux och systemadministration**, gärna i ett team där vi kan *break things and fix them again* tillsammans. För mig är det så utveckling sker – både tekniskt och personligt.
+
+---
+
+## 📬 Kontakt
+
+
+
+---
