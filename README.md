@@ -40,7 +40,8 @@ Mitt mål? Att fortsätta växa inom **Linux och systemadministration**, gärna 
 
 ---
 
-## 📬 Kontakt
+## 📬 Kontakt 
+kernelkar@proton.me
 
 
 
