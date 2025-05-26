@@ -13,7 +13,7 @@ Men det var bakom kulisserna, i systemen och skalen, jag verkligen hittade mitt 
 
 ## 🔧 Vad jag kan
 
-Under åren har jag utforskat Linux, Bash och nätverksanalys – och plockat på mig både praktisk erfarenhet och certifikat:
+ plockat på mig både praktisk erfarenhet och certifikat:
 
 - 🛡️ **[Ethical Hacker (Cisco)](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/professional/ethical-hacking.html)** – Hur sårbarheter fungerar, och hur man åtgärdar dem.  
 - 🧪 **Digital Forensics** – Linux-kommandon, filutvinning, beviskedjor.  
@@ -44,8 +44,7 @@ Fler grejer dyker upp löpande – jag laddar upp sånt jag haft kul med och dä
 
 ## 🎯 Vad jag vill
 
-Mitt mål? Att fortsätta växa inom Linux och systemadministration, gärna i ett team där vi kan *break things and fix them again* tillsammans.  
-För mig är det så utveckling sker – både tekniskt och personligt.
+Fortsätta utvecklas lära mig nya saker.
 
 ---
 
