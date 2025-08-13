@@ -1,34 +1,56 @@
-## 👋 Hej! Jag är Kernel Karl  
-Jag heter Karl – eller Kernel Karl, som jag ibland kallar mig när jag nördar ner mig i terminalen.  
-Min resa började inom IT-support, där jag snabbt lärde mig lösa problem och göra livet lite lättare för användare.  
-Men det var bakom kulisserna, i systemen och skalen, jag verkligen hittade mitt driv.
+# 👋 Hej! Jag är Kernel Karl
 
-## 🔧 Vad jag kan  
-Jag har samlat på mig både praktisk erfarenhet och certifikat inom:  
-- 🛡️ **Ethical Hacker (Cisco)** – Förståelse för sårbarheter och hur man åtgärdar dem.  
-- 🧪 **Digital Forensics** – Linux-kommandon, filutvinning, beviskedjor.  
-- 🌐 **Dark Web Operations** – Identifiera skadlig aktivitet och samla underrättelser.  
-- 🔎 **OSINT** – Hitta och analysera information från öppna källor.  
-- 📡 **Network Analysis** – Felsökning av nätverkstrafik med Wireshark och TCPDump.
+Jag heter Karl – eller **Kernel Karl** när jag nördar ner mig i terminalen.  
+Min resa började inom IT-support, men det är bakom kulisserna, i systemen och skalen, jag verkligen hittar mitt driv. Idag fokuserar jag på **Linux, nätverk och cybersäkerhet** – och älskar att förstå hur saker fungerar på djupet.  
 
-## 🧠 Hur jag lär mig  
-Jag gillar att kasta mig in i saker jag inte helt behärskar – just för att förstå dem på djupet. För mig är det där det verkliga lärandet sker. Jag dokumenterar gärna det jag lär mig längs vägen.
+---
 
-## 📂 Mina projekt  
+## 🔧 Vad jag kan
+
+Jag har både praktisk erfarenhet och certifikat inom:  
+
+- 🛡️ **Ethical Hacker (Cisco)** – Identifiera och åtgärda sårbarheter med verktyg som Kali Linux och WebSploit  
+- 🧪 **Digital Forensics** – Linux-kommandon, filutvinning, beviskedjor, analys av lösenordsskyddade filer  
+- 🌐 **Dark Web Operations** – Spåra dolda webbplatser, upptäcka skadlig aktivitet och samla underrättelser  
+- 🔎 **OSINT** – Insamling och analys av öppna källor  
+- 📡 **Network Analysis** – Felsökning med Wireshark, TCPDump och TShark  
+- 🐍 **Python & Bash** – Automatisering, Prometheus-exporters och nätverksskript  
+
+---
+
+## 🧠 Hur jag lär mig
+
+Jag kastar mig gärna in i saker jag inte helt behärskar – för att förstå dem på djupet.  
+Exempel: byggde en **TShark-exporter i Python** som skickar paketdata till Prometheus och visualiseras i Grafana.  
+Jag dokumenterar alltid mina lärdomar och strävar efter att göra komplexa system begripliga.  
+
+---
+
+## 📂 Mina projekt
+
 I mitt GitHub-repo hittar du:  
-- Bash-skript för enklare automation.  
-- Övningar i nätverksanalys med TShark och Prometheus.  
-- Små projekt där jag testat nya verktyg eller idéer som verkat spännande.  
 
-Mer grejer dyker upp löpande – jag laddar upp det jag haft kul med och där jag lärt mig något nytt.
+- Bash-skript för enklare automation  
+- Nätverksanalysprojekt med TShark, Prometheus och Grafana  
+- Små experiment med nya verktyg och idéer  
+  
 
-## 🎯 Vad jag vill  
-Fortsätta utvecklas och lära mig nya saker inom IT och cybersäkerhet.
+---
 
-## 📬 Kontakt  
-📧 kernelkar@proton.me
+## 🎯 Vad jag vill
 
-## 🚀 Certifikat & badges  
+Fortsätta utvecklas inom **Linux, systemadministration och cybersäkerhet**, med fokus på nätverk, automatisering och robusta lösningar.  
+
+---
+
+## 📬 Kontakt
+
+📧 kernelkar@proton.me  
+
+---
+
+## 🚀 Certifikat & badges
+
 - Ethical Hacker (Cisco)  
 - Digital Forensics  
 - Dark Web Operations  
